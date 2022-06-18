@@ -1,0 +1,47 @@
+{
+    "signup":{
+            "name": "Renan",
+            "cpf": "12345678940",
+            "email": "renan@gmail.com",
+            "whatsapp": "11999999999",
+            "address": {
+                "postalcode": "13380011",
+                "street": "Rua Heitor Penteado",
+                "number": "3",
+                "details": "ap 10",
+                "district": "Centro",
+                "city_state": "Nova Odessa/SP"
+            },
+            "delivery_method": "Moto"
+    },
+    "cpf_inv":{
+        "name": "João",
+            "cpf": "x234567894a",
+            "email": "joao@gmail.com",
+            "whatsapp": "11999999998",
+            "address": {
+                "postalcode": "13380011",
+                "street": "Rua Heitor Penteado",
+                "number": "3",
+                "details": "ap 10",
+                "district": "Centro",
+                "city_state": "Nova Odessa/SP"
+            },
+            "delivery_method": "Moto"
+    },
+    "invalidEmail":{
+        "name": "Renan",
+        "cpf": "12345678940",
+        "email": "renan.gmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "13380011",
+            "street": "Rua Heitor Penteado",
+            "number": "3",
+            "details": "ap 10",
+            "district": "Centro",
+            "city_state": "Nova Odessa/SP"
+        },
+        "delivery_method": "Moto"
+}
+}
